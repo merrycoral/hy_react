@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hy_react/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/hy_react/static/js/main.d61d8a43.chunk.js",
+    "main.js.map": "/hy_react/static/js/main.d61d8a43.chunk.js.map",
+    "runtime-main.js": "/hy_react/static/js/runtime-main.060d77fc.js",
+    "runtime-main.js.map": "/hy_react/static/js/runtime-main.060d77fc.js.map",
+    "static/js/2.c2ed4987.chunk.js": "/hy_react/static/js/2.c2ed4987.chunk.js",
+    "static/js/2.c2ed4987.chunk.js.map": "/hy_react/static/js/2.c2ed4987.chunk.js.map",
+    "static/js/3.e9a90c66.chunk.js": "/hy_react/static/js/3.e9a90c66.chunk.js",
+    "static/js/3.e9a90c66.chunk.js.map": "/hy_react/static/js/3.e9a90c66.chunk.js.map",
+    "index.html": "/hy_react/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/hy_react/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.c2ed4987.chunk.js.LICENSE.txt": "/hy_react/static/js/2.c2ed4987.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/hy_react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.060d77fc.js",
+    "static/js/2.c2ed4987.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.d61d8a43.chunk.js"
+  ]
+}
